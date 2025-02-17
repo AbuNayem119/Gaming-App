@@ -4,7 +4,7 @@
 Chill Gamer is a dynamic and user-friendly platform designed for gaming enthusiasts who love to explore and share their insights about the world of gaming. This application serves as a hub where users can discover detailed reviews of popular games, share their own experiences, and connect with fellow gamers. With a focus on simplicity and functionality, Chill Gamer provides a seamless user experience, whether you're browsing through top-rated games, contributing reviews, or managing your personalized watchlist. It's not just a review platform—it's a vibrant community for gamers to celebrate their passion and stay updated with the latest in gaming.  
 
 ## Live Site URL  
-[Visit Chill Gamer](https://game-revew-app.web.app/)*  
+[Visit Chill Gamer](https://game-revew-app.web.app/)
 
 ## Features  
 - **User Authentication**: Secure email/password login, Google or GitHub login integration, and dynamic navigation based on login state.  
