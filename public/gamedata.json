@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "GameCoverImage": "https://i.imgur.com/rpZ1WNY.png",
+      "GameTitle": "Cyberpunk 2077",
+      "ReviewDescription": "A visually stunning open-world RPG set in a dystopian future. Despite initial bugs, the storytelling and character development are top-notch.",
+      "Rating": 8.5,
+      "PublishingYear": 2020,
+      "Genres": "RPG",
+      "UserEmail": "john.doe@example.com",
+      "UserName": "John Doe"
+    },
+    {
+      "id": 2,
+      "GameCoverImage": "https://i.imgur.com/rpZ1WNY.png",
+      "GameTitle": "Elden Ring",
+      "ReviewDescription": "A masterpiece from FromSoftware, combining expansive open-world exploration with the challenging combat fans love.",
+      "Rating": 9.8,
+      "PublishingYear": 2022,
+      "Genres": "Action",
+      "UserEmail": "jane.smith@example.com",
+      "UserName": "Jane Smith"
+    },
+    {
+      "id": 3,
+      "GameCoverImage": "https://i.imgur.com/rpZ1WNY.png",
+      "GameTitle": "Hollow Knight",
+      "ReviewDescription": "An atmospheric Metroidvania game with beautiful hand-drawn visuals and an engaging combat system.",
+      "Rating": 9.2,
+      "PublishingYear": 2017,
+      "Genres": "Adventure",
+      "UserEmail": "alex.jones@example.com",
+      "UserName": "Alex Jones"
+    },
+    {
+      "id": 4,
+      "GameCoverImage": "https://i.imgur.com/rpZ1WNY.png",
+      "GameTitle": "Fortnite",
+      "ReviewDescription": "A fun and fast-paced battle royale game with frequent updates and collaborations to keep the experience fresh.",
+      "Rating": 7.5,
+      "PublishingYear": 2017,
+      "Genres": "Action",
+      "UserEmail": "lisa.brown@example.com",
+      "UserName": "Lisa Brown"
+    },
+    {
+      "id": 5,
+      "GameCoverImage": "https://i.imgur.com/rpZ1WNY.png",
+      "GameTitle": "Minecraft",
+      "ReviewDescription": "A timeless sandbox game that encourages creativity and exploration with endless possibilities.",
+      "Rating": 9.5,
+      "PublishingYear": 2011,
+      "Genres": "Adventure",
+      "UserEmail": "michael.green@example.com",
+      "UserName": "Michael Green"
+    },
+    {
+      "id": 6,
+      "GameCoverImage": "https://i.imgur.com/rpZ1WNY.png",
+      "GameTitle": "God of War",
+      "ReviewDescription": "An emotionally gripping tale of a father's journey with his son, set in a mythological Norse world with breathtaking visuals and intense combat.",
+      "Rating": 9.7,
+      "PublishingYear": 2018,
+      "Genres": "Action",
+      "UserEmail": "emma.wilson@example.com",
+      "UserName": "Emma Wilson"
+    },
+    {
+      "id": 7,
+      "GameCoverImage": "https://example.com/images/lastofus.jpg",
+      "GameTitle": "The Last of Us Part II",
+      "ReviewDescription": "A gut-wrenching narrative combined with outstanding graphics and gameplay mechanics. A bold and divisive sequel that pushes storytelling boundaries.",
+      "Rating": 9.3,
+      "PublishingYear": 2020,
+      "Genres": "Adventure",
+      "UserEmail": "sarah.connor@example.com",
+      "UserName": "Sarah Connor"
+    },
+    {
+      "id": 8,
+      "GameCoverImage": "https://example.com/images/reddeadredemption2.jpg",
+      "GameTitle": "Red Dead Redemption 2",
+      "ReviewDescription": "An epic Western adventure with a beautifully detailed open world, compelling story, and unforgettable characters.",
+      "Rating": 9.9,
+      "PublishingYear": 2018,
+      "Genres": "Action",
+      "UserEmail": "arthur.morgan@example.com",
+      "UserName": "Arthur Morgan"
+    },
+    {
+      "id": 9,
+      "GameCoverImage": "https://example.com/images/witcher3.jpg",
+      "GameTitle": "The Witcher 3: Wild Hunt",
+      "ReviewDescription": "A genre-defining RPG with a deep narrative, sprawling open world, and memorable side quests.",
+      "Rating": 10,
+      "PublishingYear": 2015,
+      "Genres": "RPG",
+      "UserEmail": "gerald.rivia@example.com",
+      "UserName": "Gerald Rivia"
+    },
+    {
+      "id": 10,
+      "GameCoverImage": "https://example.com/images/doom.jpg",
+      "GameTitle": "DOOM Eternal",
+      "ReviewDescription": "A high-octane first-person shooter with frenetic gameplay and a killer soundtrack. A worthy successor to the classic franchise.",
+      "Rating": 8.8,
+      "PublishingYear": 2020,
+      "Genres": "Action",
+      "UserEmail": "doomguy@example.com",
+      "UserName": "Doom Slayer"
+    }
+  ]
+  
